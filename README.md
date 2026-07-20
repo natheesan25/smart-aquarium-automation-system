@@ -46,6 +46,8 @@ Available controls include:
 - Uses an **Ultrasonic Sensor** to measure water level.
 - Helps control water replacement operations accurately.
 
+---
+
 # 🛠️ Technologies Used
 
 ## Hardware
