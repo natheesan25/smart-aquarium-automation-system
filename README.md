@@ -46,3 +46,29 @@ Available controls include:
 - Uses an **Ultrasonic Sensor** to measure water level.
 - Helps control water replacement operations accurately.
 
+# 🛠️ Technologies Used
+
+## Hardware
+- ESP32 Development Board
+- Turbidity Sensor
+- Ultrasonic Sensor
+- Relay Modules
+- Two Water Pumps
+- Automatic Fish Feeder Mechanism
+
+## Software
+- Arduino IDE
+- C++ Programming
+- Telegram Bot API
+- Wi-Fi Communication
+
+---
+
+# 🔄 How It Works
+
+1. ESP32 connects to Wi-Fi.
+2. Sensors continuously collect aquarium data.
+3. The ESP32 processes sensor readings.
+4. Data and commands are communicated through the Telegram Bot.
+5. Users can monitor and control aquarium functions remotely.
+6. Relay modules control pumps and automation components.
